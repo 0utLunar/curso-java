@@ -38,6 +38,6 @@ Instrutor: **Nélio Alves**
 
 ---
 
-## Link do Curso: https://www.udemy.com/course/java-curso-completo
+Link do Curso: https://www.udemy.com/course/java-curso-completo
 
 > Repositório criado para fins de estudo e acompanhamento da minha evolução em Java.
